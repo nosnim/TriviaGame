@@ -1,0 +1,37 @@
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#startGame {
+    text-align: center;
+    margin-top: 2%;
+}
+
+#examTitle {
+    font-family: 'Indie Flower', cursive;
+    font-size: 400%;
+    text-align: center; 
+    color: orange;
+    margin-top: 1%;
+    border-bottom: 1.5px solid orangered; 
+}
+
+#questionTitle {
+    margin-top: 5%;
+}
+
+h2, h3 {
+    color: orange;
+    font-size: 200%;
+}
+
+#question {
+    color: whitesmoke;
+    font-size: 150%;
+}
+
+.container {
+    display: none;
+}
